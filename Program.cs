@@ -8,8 +8,8 @@ namespace TrainCsharp.Models
         {
             // Aqui você pode instanciar o objeto Pessoa
             Pessoa p = new Pessoa();
-            p.Nome = "João";
-            p.Idade = 30;
+            p.Nome = "Lucas";
+            p.Idade = 25;
 
             // Chamando o método Apresentar
             p.Apresentar();

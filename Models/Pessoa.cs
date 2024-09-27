@@ -12,7 +12,8 @@ namespace TrainCsharp.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Ola, meu nome é {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"Ola, meu nome é " +
+            $"{Nome}, e tenho {Idade} anos");
         }
     }
 }

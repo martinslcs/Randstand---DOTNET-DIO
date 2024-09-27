@@ -12,3 +12,4 @@ C:\Users\Lucas Martins\OneDrive\Área de Trabalho\TrainCsharp\obj\Debug\net8.0\r
 C:\Users\Lucas Martins\OneDrive\Área de Trabalho\TrainCsharp\obj\Debug\net8.0\TrainCsharp.pdb
 C:\Users\Lucas Martins\OneDrive\Área de Trabalho\TrainCsharp\obj\Debug\net8.0\TrainCsharp.genruntimeconfig.cache
 C:\Users\Lucas Martins\OneDrive\Área de Trabalho\TrainCsharp\obj\Debug\net8.0\ref\TrainCsharp.dll
+C:\Users\Lucas Martins\OneDrive\Área de Trabalho\TrainCsharp\obj\Debug\net8.0\TrainCsharp.sourcelink.json
